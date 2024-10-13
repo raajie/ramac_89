@@ -1,4 +1,4 @@
-Credit Risk Analysis EDA Fintech Projects
+**Credit Risk Analysis EDA Fintech Projects**
   
 Technique used:
 
