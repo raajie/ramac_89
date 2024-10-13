@@ -1,6 +1,6 @@
 **Credit Risk Analysis EDA Fintech Projects**
   
-***Technique used:***
+**Technique used:**
 
   -> Exploratory Data Analysis
 
