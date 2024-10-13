@@ -1,2 +1,2 @@
-# ramac_89
+Credit Risk Analysis EDA
 Fintech Projects
