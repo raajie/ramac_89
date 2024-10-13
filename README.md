@@ -1,5 +1,10 @@
 Credit Risk Analysis EDA Fintech Projects
-
-INTRODUCTION:
   
-  This EDA focusses on customers' credit score to determines a borrower’s ability to meet their debt obligations and the lender’s aim when advancing credit.
+Technique used:
+
+  Exploratory Data Analysis
+
+Objective:
+
+  This EDA focusses on calculating credit score to determines a borrower’s ability to meet their debt obligations and the lender’s aim when advancing credit.
+
