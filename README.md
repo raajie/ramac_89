@@ -1,4 +1,8 @@
 **Credit Risk Analysis EDA Fintech Projects**
+
+![CreditRisk](https://github.com/user-attachments/assets/c0b7a832-7685-4dbb-bf20-27f80b2744da)
+
+
   
 **Technique used:**
 
